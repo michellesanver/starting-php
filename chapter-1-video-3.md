@@ -1,18 +1,14 @@
 Beginner PHP Course
 
-Chapter 1, Video 3: internet
+Chapter 1, Video 3: Webpage behind the scenes
 
 
-Overview of how it works when you go to a website
-If you fele you need an overview again, have a look at this video again.
+simplified Overview of how it works when you go to a website
+If you feel you need an overview again, have a look at this video again.
 enter url in browser
-browser doesnt know which server
-needs to ask which address this name has (dns name to IP)
-Network, distributed, no central point
-dns server translates name into IP and returns it to browser
-browser takes IP from dns server and asks web server for homepage
-webserver takes a specific request that browser sent
-if it sees that th requested page has PHP in it, it will call PHP server to execute the code
-HTML (and other content) gets returned from PHP to the web server
+browser connects to web server and asks for web page
+webserver sees that the asked page has PHP in it, so it will ask PHP to execute the code into content that it can read
 Webserver sends completed response back to browser
-Browser displays HTML, CSS and other content such as images and videos
+Browser displays all content such as text, images and videos
+
+
