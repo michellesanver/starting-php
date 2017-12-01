@@ -10,7 +10,7 @@ Goal: Have a simple overview and understanding of how web servers work.
 
 ---- 
 
-### Text
+### Video text
 When you enter a URL in a browser: It connects to the web server that hosts that website. The server is then in charge of reading the request that the browser made. 
 The request includes information about which type of content you want, which language you want, and you also send details about the browser and location, among other things. 
 
