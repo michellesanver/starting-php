@@ -20,3 +20,5 @@ It can also communicate with other systems like storage solutions, such as a dat
 Then the web server takes the HTML that we defined in the PHP code and returns it to the browser in a response.
 
 Now the browser takes that response and displays that to you, it can be the HTML, including resources such as text, images and videos.
+
+![Web server process](Screen Shot 2017-12-01 at 14.59.22.png)
