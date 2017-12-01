@@ -2,18 +2,13 @@ Beginner PHP Course
 
 Chapter 1, Video 3: Webpage behind the scenes
 
-
-simplified Overview of how it works when you go to a website
+### Description
+Simplified Overview of how it works when you go to a website
 If you feel you need an overview again, have a look at this video again.
-enter url in browser
-browser connects to web server and asks for web page
-webserver sees that the asked page has PHP in it, so it will ask PHP to execute the code into content that it can read
-Webserver sends completed response back to browser
-Browser displays all content such as text, images and videos
-
 
 ---- 
 
+## Text
 When you enter a URL in a browser: It connects to the web server that hosts that website. The server is then in charge of reading the request that the browser made. 
 The request includes information about which type of content you want, which language you want, and you also send details about the browser and location, among other things. 
 
