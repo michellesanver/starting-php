@@ -1,42 +1,21 @@
-Beginner PHP Course
+# Beginner PHP Course: Chapter 1, Video 4: PHP
 
-Chapter 1, Video 4: PHP
+## Description
+Describes why we should use PHP when there are so many other languages out there, such as JavaScript. Also describes a bit what PHP is. 
 
-why php when so many other languages (specially javascript)
-Why he should use php
+## Video text
+PHP is like the machinery behind a website. PHP can be used for anything that you see behind a website and also for the things you don't see. It has become the web language of choice since 1998. It powers most of the web, large sites like facebook, wordpress, wikipedia and tumblr are written in PHP. Because of that, there are many job opportunities for PHP developers.
 
-what is php: script language, mainly aimed at websites. Used to be just the website. Many modern websites are using a backend (API) which PHP is often used, and a javascript frontend. There are many languages like PHP that can be used as a backend. A large percentage of the web is written in php. Facebook is a good example of a big website written mainly in php. Others are wordpress, tumbler and wikipedia.
+PHP is a scripting language, which means that it is easy to use compared to a compliled language. To run a program written in a compiled language, it first has to take your code and compile it into a program, before you can run.But in PHP, you can run your program on the fly, which means it is faster to see your changes.
 
-strength:
-- job opportunities, powers most of the web
-- follows modern software principles in a flexible way
-- platform agnositc
-- easy to get into, script language
-- big community with a lot of passionate people (help, advice, ressources, etc)
-- lots of opensource projects and libraries (actual code to look at)
-- Easy to integrate other peoples code into your projects (composer)
-- actively developed
-- works well with 3rd party systems (modules, mysql, redis, es, oracle, etc)
-- good tooling available (phpstorm)
-- has cute plush mascot elephants
+Of course there are many other programming languages out there, and PHP is often used with them. One of the other languages that PHP is often paired with is JavaScript. In a moden application PHP rarely stands on its own. 
 
+--- 
 
-weaknesses: not always the highest performance depending on your case, has it's inconsistencies (parameter orders), not always useful outside of web(server) applications, hard to write async code, single threadded by itself, relativel memory intensive,
+Despite its popularity, PHP is in some cases not the highest performing language. Outside of web applications, it is rarely useful. When you program in PHP you will notice that there are some inconsistensies in the way you write your code. Don't worry; we will show you how to work with this.
 
+PHP is open source and can be run on all major operating systems. Because PHP is open source its code can be improved by anyone, and it is under active development. If you have a good idea for improvement, changes are that it will happen! There are many pieces of PHP code out there that are also open source and can be used in your projects. To make that easier PHP has a great tool called "composer" that makes it easy to work with other peoples libraries in your code. 
 
+The community is large with many meetups and conferences. You can go to http://php.net/conferences/index.php (show clickable url) to get an idea of conferences around the world. And http://php.ug (show clickable url) is a great resource to find user groups in your area. At user groups they are often very welcoming to developers learning PHP; such as yourself. 
 
-
-what is PHP? A scripting language, meaning it doesn't have to be compiled like other lanugages to run. You can just change code and run it immediately. 
-
-PHP is like the machinery behind a website. PHP can be used for anything that you see behind a website and also for the things you don't see. It has become the web language of choice since 1998. It powers most of the web, large sites like facebook, wordpress, wikipedia and tumblr are written in PHP. 
-
-things not to good at:
-Not always useful outside of web(server) applications
-Has inconstencies in the way you use some basic language features which leads to confusion from time to time and often have to look it up in the manual
-
-
-things good at:
-job opportunities
-
-
-
+Of course PHP also has a very cute mascot! (show elePHPant)
