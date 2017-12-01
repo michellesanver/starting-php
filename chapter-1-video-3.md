@@ -1,6 +1,4 @@
-# Beginner PHP Course
-
-## Chapter 1, Video 3: A web page behind the scenes
+# Beginner PHP Course: Chapter 1, Video 3: A web page behind the scenes
 
 ### Description
 Simplified Overview of how it works when you go to a website.
