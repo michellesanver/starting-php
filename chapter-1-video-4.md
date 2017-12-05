@@ -6,7 +6,7 @@ Describes why we should use PHP when there are so many other languages out there
 ## Video text
 PHP is like the machinery behind a website. PHP can be used for anything that you see behind a website and also for the things you don't see. It has become the web language of choice since 1998. It powers most of the web, large sites like facebook, wordpress, wikipedia and tumblr are written in PHP. Because of that, there are many job opportunities for PHP developers.
 
-PHP is a scripting language, which means that it is easy to use compared to a compliled language. To run a program written in a compiled language, it first has to take your code and compile it into a program, before you can run.But in PHP, you can run your program on the fly, which means it is faster to see your changes.
+PHP is a scripting language, which means that it is easy to use compared to a compliled language. To run a program written in a compiled language, it first has to take your code and compile it into a program, before you can run.But in PHP, you can run your program on the fly, which means it is faster to see your changes. [FIND A REAL LIFE EXAMPLE INSTEAD, COOKING?]
 
 Of course there are many other programming languages out there, and PHP is often used with them. One of the other languages that PHP is often paired with is JavaScript. In a moden application PHP rarely stands on its own. 
 
