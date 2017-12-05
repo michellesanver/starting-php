@@ -12,9 +12,9 @@ Of course there are many other programming languages out there, and PHP is often
 
 --- 
 
-Despite its popularity, PHP is in some cases not the highest performing language. Outside of web applications, it is rarely useful. When you program in PHP you will notice that there are some inconsistensies in the way you write your code. Don't worry; we will show you how to work with this.
+Despite its popularity, PHP is in some cases not the highest performing language. Outside of web applications, it is rarely useful. When you program in PHP you will notice that you can write your code in different ways. It can be confusing to people that it is not always consistent, but: Don't worry; we will show you how to work with this.
 
-PHP is open source and can be run on all major operating systems. Because PHP is open source its code can be improved by anyone, and it is under active development. If you have a good idea for improvement, changes are that it will happen! There are many pieces of PHP code out there that are also open source and can be used in your projects. To make that easier PHP has a great tool called "composer" that makes it easy to work with other peoples libraries in your code. 
+PHP is open source, which means that anyone can come with suggestions to the software. PHP can be run on all major operating systems, such as Mac OS X, Linux and windows. Because PHP is open source its code can be improved by anyone, and it is under active development. If you have a good idea for improvement, chances are that it will happen! There are many pieces of PHP code out there that are also open source and can be used in your projects. To make that easier PHP has a great tool called "composer" that makes it easy to work with other peoples code in your code. 
 
 The community is large with many meetups and conferences. You can go to http://php.net/conferences/index.php (show clickable url) to get an idea of conferences around the world. And http://php.ug (show clickable url) is a great resource to find user groups in your area. At user groups they are often very welcoming to developers learning PHP; such as yourself. 
 
