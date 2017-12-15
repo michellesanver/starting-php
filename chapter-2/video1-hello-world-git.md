@@ -4,4 +4,4 @@ When we started programming we often had situations where we wanted to rewrite w
 
 With version control it keeps track of all the versions that you have saved. One version is like a snapshot of all your code at that moment in time. You can go between different snapshots as much as you like, and they are always there. You can also compare different snapshots and leave comments with each snapshot to see what changed when, and why. 
 
-This makes it very easy for us as programmers to work together and to never have to worry about work getting lost when we try out new ideas. 
+Since all our versions are there, we never have to worry about work getting lost when we try out new ideas. 
