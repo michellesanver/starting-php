@@ -1,0 +1,4 @@
+# Editor introduction
+Now that we have our repository on our computer, we need to be able to edit the files. The application used to do this is called an "editor". There are many different editors available. In this tutorial we have chosen Atom [https://atom.io/]. It is an open source, free editor which works on all major operating systems. It has all the things a beginner in PHP needs. There are other editors which usually cost money, which give you more functions. They are not needed to produce good code, but they can help in your productivity. 
+
+For the next video, you will need to have Atom installed. We have made OS specific videos on how to install it (link videos). Once you have installed it and opened it, you can go on to the next video.
