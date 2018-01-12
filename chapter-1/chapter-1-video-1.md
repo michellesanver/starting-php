@@ -1,6 +1,4 @@
-Beginner PHP Course
-
-Chapter 1, Video 1: Expectation Management
+# Chapter 1, Video 1: Expectation Management
 
 M: Hi, I'm Michelle
 C: And I'm Christian
