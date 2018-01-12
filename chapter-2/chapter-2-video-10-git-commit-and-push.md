@@ -1,4 +1,4 @@
-# Chapter 2: Commit and push, the git workflow
+# Chapter 2 video 10: Commit and push, the git workflow
 Now you have a repository, and you know how to run your code locally. Your code is only on your machine. If you go to github and browse your repository, nothing is there yet.
 
 A common workflow that programmers use is the following: 
