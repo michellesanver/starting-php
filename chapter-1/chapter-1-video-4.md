@@ -8,7 +8,7 @@ PHP is like the machinery behind a website. PHP can be used for anything that yo
 
 PHP is a scripting language, which means that you can take your code and just run it, no additional steps required. In other programming languages you often have to compile the code first, and then run it. This can take time. PHP is like a meal from a restaurant ready to eat. In a compiled language you first have to put the meal in the oven.
 
-Of course there are many other programming languages out there, and PHP is often used with them. One of the other languages that PHP is often paired with is JavaScript. In a moden application PHP rarely stands on its own. 
+Of course there are many other programming languages out there, and PHP is often used with them. PHP is often paired with JavaScript for example. In a modern application PHP rarely stands on its own. 
 
 --- 
 
