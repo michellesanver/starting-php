@@ -10,4 +10,4 @@ Press the commit button to save your changes. Behind the scenes github now autom
 
 Press the "Create pull request" button. If you have anything to tell us, feel free to add it here! Note that this information is public and anyone can see your message. 
 
-Create pull request. It can take up to a few days for us to accept your changes! When we have you will get a notification about it via github, and your name or nickname will show up in the list! Congratulations, you have made your first open source pull request.
+Now you can submit your changes by pressing the "create pull request" button. It can take up to a few days for us to accept your changes! When we have you will get a notification about it via github, and your name or nickname will show up in the list! Congratulations, you have made your first open source pull request.
