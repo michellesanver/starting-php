@@ -26,4 +26,4 @@ Then the web server takes the HTML that we defined in the PHP code and returns i
 
 Now the browser takes that response and displays that to you, it can be the HTML, including resources such as text, images and videos.
 
-![Web server process](Screen Shot 2017-12-01 at 14.59.22.png)
+![Web server process](webrequest.png)
