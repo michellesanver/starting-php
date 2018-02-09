@@ -6,10 +6,6 @@ If you feel you need an overview again, have a look at this video again.
 
 Goal: Have a simple overview and understanding of how web servers work. 
 
-Questions:
-- What is a server?
-- What is HTML? 
-
 ---- 
 
 When you enter a link in a browser, the browser needs to know where to go to get the content for you. The browser talks to another machine over the Internet, which similarly to a post address, has the address of the link you requested. That machine is called a "server". The server is in charge of reading the request that the browser made. 
