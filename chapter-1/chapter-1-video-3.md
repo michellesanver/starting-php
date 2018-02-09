@@ -12,17 +12,19 @@ Questions:
 
 ---- 
 
-When you enter a link in a browser: The browser needs to know where to go to get the content for you. It talks to another machine over the Internet, which similarly to a post address, has the address of the link you requested. That machine is called a "server". The server is in charge of reading the request that the browser made. 
+When you enter a link in a browser, the browser needs to know where to go to get the content for you. The browser talks to another machine over the Internet, which similarly to a post address, has the address of the link you requested. That machine is called a "server". The server is in charge of reading the request that the browser made. 
 
-The request includes information about which type of content you want, which language you want, and you also send details about the browser and location, among other things. 
+The request has a lot of information. Some of the information is about which type of content you want. The request also contains details about your browser and your location. 
 
-On the server you have software that handles the request you made. This software is called a "web server". Two of the most popular web server software used today are called "nginx" and "apache", we will go into this in more detail later. They both work well with PHP.
+On the server you have software that handles the request you made. This software is called a "web server". Two of the most popular web server software used today are called "nginx" and "apache". We will go into this in more detail later. They both work well with PHP.
 
 The web server will handle the request, and if the requested page has PHP code in it, it will run that code. 
-When PHP runs the code it can return HTML to the web server. [EXPLAIN HTML]
-It can also communicate with other systems like storage solutions, such as a database [EXPLAIN DATABASE] to read or save information.
-Then the web server takes the HTML that we defined in the PHP code and returns it to the browser in a response.
+When PHP runs the code it can return data to the web server.
 
-Now the browser takes that response and displays that to you, it can be the HTML, including resources such as text, images and videos.
+It can also communicate with other systems. If you want to read or store information you could use a storage solution such as a database. We will explain more about databases in a later video.
+
+The web server takes the data that we defined in the PHP code and returns it to the browser in a response.
+
+Now the browser takes that response and displays that to you. The most common way of displaying the data is HTML, which is a semantic way of formatting web pages that all browsers understand. It can contain information about which content is a paragraph, what is an image and other things. It describes your content so that the web browser knows how to display it. It can include links to other pages or even video's. 
 
 ![Web server process](webrequest.png)
