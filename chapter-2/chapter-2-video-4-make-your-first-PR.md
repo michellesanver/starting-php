@@ -1,5 +1,5 @@
 # Your first PR
-A big part of git and github is collaboration. Let's see just how easy it is by creating your first pull request! A pull request is you suggesting changes to one or several files. 
+A big part of git and github is collaboration. Let's see just how easy it is by creating your first pull request, called PR in short. A pull request is you suggesting changes to one or several files. 
 
 VIDEO: 
 First you go to github.com/WHATEVERITWILLBE/phptutorial which is the php tutorial repository. In there you will see I_WAS_HERE.md, click that file.
