@@ -17,3 +17,13 @@ M: During this course you will build a website, namely the php tutorial website 
 C: You don't need any programming experience before using this course. It's suitable for absolutely everyone. If you already have some experience, just skip ahead when we cover something you know. All you need is a computer and an internet connection and you are good to go.
 
 M: In this course you will *obviously* learn PHP as a programming language. To learn PHP we will also teach you how the internet works and how websites are built. We will briefly cover data storage and some of the tools that you need. We will also share common practices that will help you along the way.
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyJrRENjMkk1ck8yZmN0MjNsIjp7In
+N0YXJ0Ijo2NywiZW5kIjo4NywidGV4dCI6IkM6IEFuZCBJJ20g
+Q2hyaXN0aWFuIn19LCJjb21tZW50cyI6eyJEekw2UDF1cnNHd0
+tERXNWIjp7ImRpc2N1c3Npb25JZCI6ImtEQ2MySTVyTzJmY3Qy
+M2wiLCJzdWIiOiIxMTc1NDQzMTkzMjczOTM1MDkyNjUiLCJ0ZX
+h0IjoiUmVwbGFjZSB0aGlzIHdpdGggZG9yaWFuIiwiY3JlYXRl
+ZCI6MTUzMjY4MTMzOTIxNX19LCJoaXN0b3J5IjpbLTQ2NjcxOT
+M0N119
+-->
