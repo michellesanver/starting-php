@@ -1,7 +1,9 @@
 # Chapter 2 video 9: Run the script
-Now that you have your hello world script, let's run it! First check if you have PHP installed by opening your terminal and writing "php --version". If you don't have PHP, or the version is really old, we recommend that you install the latest version. See the video for installing PHP specific to your operating system.
+Now that you have your hello world script, let's run it! First check if you have PHP installed by opening your terminal and writing "php --version". If you don't have PHP, or the version is below 7.0, you need to install the latest version. 
 
-Now that PHP is installed and you know which version you are running, let's run the script in the most straight forward way. We first have to ensure that we are in the correct place in the console. Use ls and cd to see where you are and move to the right directory. Or you can use cd /your/path/here to move there directly.
+{TODO: Add resources here for installing PHP}
+
+Now that PHP is installed, let's run the script in the most straight forward way. We first have to ensure that we are in the correct place in the console. Use ls and cd to see where you are and move to the right directory. Or you can use cd /your/path/here to move there directly.
 
 Then when we are in the right folder with index.php listed when we write "ls" we can execute our script with PHP by writing "php index.php". 
 
