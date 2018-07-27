@@ -5,7 +5,7 @@ Ensure that you save often! Remember the shortcut you see in the file menu. You 
 
 Congratulations! Now, finally, we get to write some PHP! All PHP code starts with the PHP tag. <?php. We need the tag so that PHP knows where the code starts, and what it should run. You will see in a later chapter how you can mix PHP with HTML. 
 
-write echo 'hello world'; Echo is a language construct that outputs text. The text needs to be in single or double quotes so PHP knows where it starts and ends. There are some differences between single and double quotes, we will show you some of them in a future chapter. 
+Write `echo 'hello world';`. `echo` is a language construct that outputs text. 
 
 A PHP instruction always ends with semicolon, that way PHP knows when it's done with that instruction. If you forget it, PHP will output a "syntax error" telling you which line you probably forgot. You can see the line numbers on your left. Our echo instruction is on line 3. 
 
