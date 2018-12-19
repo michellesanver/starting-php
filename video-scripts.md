@@ -1,8 +1,6 @@
 # Video Scripts
 Goal: From no programming ever to be able to go to a symfony/zf/laravel getting started page and able to start a project.
 
-For an overview, and concept please see: https://docs.google.com/document/d/1Ukr5rWvAdouOGwACKqtyZ3YIokIQb056EGz7XmXZC98/edit
-
 ## Chapter 1: Introduction
 ### Chapter description
 Learn what this course is about, who we are and the very basics of what PHP and the Internet is.
